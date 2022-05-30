@@ -1,0 +1,9 @@
+Tommorow I have my end semester exam thats why I am currently not making a fresh django application 
+All the features in the assignment are very basic feature 
+I have done so many time these features
+I am sending here one of my project in which I am done all these things 
+I am not much familar with the postgresql 
+Instead of this I am using Mysql
+I can learn the postgresql in just one day If I got selected 
+
+Repo link to my project - <a> https://github.com/Manav-arora-87/CollegeClassfields.github.io </a>
